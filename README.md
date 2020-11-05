@@ -7,7 +7,6 @@ Para ver el proyecto ingrese a la web de <a href="https://housemuv-white.herokua
 # Empezar 🚀
 <i>Has una copia del proyecto o descárgalo</i><br>
 <i>npm install en FrontEnd y BackEnd para instalar las dependencias</i>
-<pre><i></i></pre>
 
 # Pre-requisitos 📋
 Tener instalado <a href="https://nodejs.org/en/">Node.js</a> en el sistema, versión usada (12.18.3)<br>
