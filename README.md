@@ -31,8 +31,8 @@ Instalará los paquetes necesarios y luego correr el comando:<br>
 
 # Autores ✒️
 <h3>  Proyecto realizado de manera grupal</h3>
-Emiliano Ruffini -<i> Lider del grupo, versionado y documentación emiruffini</i>
 <h4>Integrantes y colaboradores:</h4>
+Emiliano Ruffini -<i> Lider del grupo</i>
 Tahyana Villareal<br>
 Martin Cumpe<br>
 Rusbent Matta<br>
