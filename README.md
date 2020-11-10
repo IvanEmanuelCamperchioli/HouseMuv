@@ -32,7 +32,7 @@ Instalará los paquetes necesarios y luego correr el comando:<br>
 # Autores ✒️
 <h3>  Proyecto realizado de manera grupal</h3>
 <h4>Integrantes y colaboradores:</h4>
-Emiliano Ruffini -<i> Lider del grupo</i>
+Emiliano Ruffini -<i> Lider del grupo</i><br>
 Tahyana Villareal<br>
 Martin Cumpe<br>
 Rusbent Matta<br>
